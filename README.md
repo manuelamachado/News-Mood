@@ -27,7 +27,6 @@ Visualized summary of the sentiments expressed in Tweets sent out by the followi
 
 tweepy, pandas, matplotlib, seaborn, textblob, and VADER.
 
-Your final Jupyter notebook must:
 
 # Results and Conclusions:
 

@@ -1,6 +1,6 @@
 # News Mood - Distinguishing Sentiments
 
-Created a Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and to presented my findings visually.
+Created a Python script to perform a sentiment analysis of the Twitter activity of various news outlets, and to presented my findings visually.
 
 Visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: __BBC, CBS, CNN, Fox, and New York times__.
 
